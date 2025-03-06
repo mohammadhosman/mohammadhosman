@@ -5,7 +5,8 @@
 
 Hey now, I'm Mohammad, an aspiring software developer with an interest in cybersecurity and full stack web application development.
 
-**📚 Projects**<br>
+**📚 Projects**
+<br><br>
 Welcome to my portfolio, where I showcase my <a href="https://github.com/mohammadhosman" target="_blank">projects</a>.
 
 **🛠️ Tools**
@@ -18,7 +19,7 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/mohamma
 **👋🏻 Connect with Me**<br>
 <ul>
   <li> Contact me on <a href="https://www.linkedin.com/in/mohammadhosman/" target="_blank"> LinkedIn </a> </li>
-  <li>Or <p><a href="mailto:mohosman93@hotmail.com">send me an email 📩</a></p></li>
+  <li><p>Or <a href="mailto:mohosman93@hotmail.com">send me an email 📩</a></p></li>
 </ul>
 
 <!--
