@@ -22,7 +22,7 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/mohamma
 </ul>
 
 Thanks for dropping by my portfolio. I hope to hear from you! Here is a parting gift from me:
-![IMG_1270](https://github.com/user-attachments/assets/552f90e3-ad5f-4d2a-b45a-48bdf9cbbcaa)
+<img src="IMG_1270.JPG" alt="Second Image" width="700" height="700">
 
 <h3>Have a good day!👋🏻</h3>
 
