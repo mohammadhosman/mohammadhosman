@@ -1,5 +1,4 @@
 <h1>Introducing Myself 🙋🏻‍♂️</h1>
-<hr>
 
 ![Mohammad Osman](https://github.com/user-attachments/assets/662028c7-90f3-4054-b801-75dc0068a4b9)
 
