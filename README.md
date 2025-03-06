@@ -6,7 +6,7 @@ Hey now, I'm Mohammad, an aspiring software developer with an interest in cybers
 
 **📚 Projects**
 <br><br>
-Welcome to my portfolio, where I showcase my <a href="https://github.com/mohammadhosman?tab=repositories" target="_blank">projects</a>.
+Welcome to my portfolio, where I showcase my <a href="https://github.com/mohammadhosman?tab=repositories" onclick="window.open(this.href); return false;">projects</a>.
 
 **🛠️ Tools**
 <ul>
@@ -17,7 +17,7 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/mohamma
 
 **🤝Connect with Me**<br>
 <ul>
-  <li> Contact me on <a href="https://www.linkedin.com/in/mohammadhosman/" target="_blank"> LinkedIn </a> </li>
+  <li> Contact me on <a href="https://www.linkedin.com/in/mohammadhosman/" onclick="window.open(this.href); return false;"> LinkedIn </a> </li>
   <li><p>Or <a href="mailto:mohosman93@hotmail.com">send me an email 📩</a></p></li>
 </ul>
 
